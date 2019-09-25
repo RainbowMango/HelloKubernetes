@@ -31,4 +31,4 @@
 
 
 # 开始阅读
-[开始阅读](https://rainbowmango.gitbook.io/go/)
+[开始阅读](https://qdurenhongcai.gitbook.io/kubernetes/)
